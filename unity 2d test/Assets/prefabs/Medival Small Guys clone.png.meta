@@ -1,0 +1,718 @@
+fileFormatVersion: 2
+guid: df58ea5697016644488bf28615db4fbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4920802115071494164
+    second: Medival Small Guys clone_0
+  - first:
+      213: 1567139844287937624
+    second: Medival Small Guys clone_1
+  - first:
+      213: -8747458381447081053
+    second: Medival Small Guys clone_2
+  - first:
+      213: 6717123758428880141
+    second: Medival Small Guys clone_3
+  - first:
+      213: -3849462066564721842
+    second: Medival Small Guys clone_4
+  - first:
+      213: 3044880215724347658
+    second: Medival Small Guys clone_5
+  - first:
+      213: -1869893763525758626
+    second: Medival Small Guys clone_6
+  - first:
+      213: -2366898393150496931
+    second: Medival Small Guys clone_7
+  - first:
+      213: 7849879026024434501
+    second: Medival Small Guys clone_8
+  - first:
+      213: 6186382554012872485
+    second: Medival Small Guys clone_9
+  - first:
+      213: 1982478218122267397
+    second: Medival Small Guys clone_10
+  - first:
+      213: 8424930238170051709
+    second: Medival Small Guys clone_11
+  - first:
+      213: -8718237313057900098
+    second: Medival Small Guys clone_12
+  - first:
+      213: 3064485911683593977
+    second: Medival Small Guys clone_13
+  - first:
+      213: 436057484651135732
+    second: Medival Small Guys clone_14
+  - first:
+      213: 139832465331991231
+    second: Medival Small Guys clone_15
+  - first:
+      213: -8960350832270087266
+    second: Medival Small Guys clone_16
+  - first:
+      213: -1080648675633613672
+    second: Medival Small Guys clone_17
+  - first:
+      213: 7541744985585921182
+    second: Medival Small Guys clone_18
+  - first:
+      213: -7483715756092402464
+    second: Medival Small Guys clone_19
+  - first:
+      213: -3835304503304278224
+    second: Medival Small Guys clone_20
+  - first:
+      213: 3597066243698220749
+    second: Medival Small Guys clone_21
+  - first:
+      213: 3894371816434558057
+    second: Medival Small Guys clone_22
+  - first:
+      213: 2946103255307037410
+    second: Medival Small Guys clone_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medival Small Guys clone_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1270
+        width: 130
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418c3deb3733a4440800000000000000
+      internalID: 4920802115071494164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1270
+        width: 130
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cb424a2699fb510800000000000000
+      internalID: 1567139844287937624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_2
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1360
+        width: 220
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a35556b2f8ca9680800000000000000
+      internalID: -8747458381447081053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_3
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1300
+        width: 70
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d7d7d2874083d50800000000000000
+      internalID: 6717123758428880141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_4
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1300
+        width: 90
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43911255a6f39ac0800000000000000
+      internalID: -3849462066564721842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 990
+        width: 70
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a015dd97c66914a20800000000000000
+      internalID: 3044880215724347658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 990
+        width: 70
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e513459778dcc06e0800000000000000
+      internalID: -1869893763525758626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 990
+        width: 161
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f52d8a376172fd0800000000000000
+      internalID: -2366898393150496931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_8
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 990
+        width: 100
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bc9fb326f50fc60800000000000000
+      internalID: 7849879026024434501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_9
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 990
+        width: 110
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f6c90f7227ad550800000000000000
+      internalID: 6186382554012872485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 680
+        width: 80
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b802e8f6d238b10800000000000000
+      internalID: 1982478218122267397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 680
+        width: 80
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74b2971a6d5be470800000000000000
+      internalID: 8424930238170051709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_12
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 680
+        width: 70
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9b0afda59920780800000000000000
+      internalID: -8718237313057900098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_13
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 680
+        width: 90
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6f61943bd378a20800000000000000
+      internalID: 3064485911683593977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_14
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 680
+        width: 70
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f20842d8ff2d0600800000000000000
+      internalID: 436057484651135732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 370
+        width: 70
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb23e28e2e8c0f100800000000000000
+      internalID: 139832465331991231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_16
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 370
+        width: 158
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b6aab546076a380800000000000000
+      internalID: -8960350832270087266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_17
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 370
+        width: 100
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894bcd941c3c001f0800000000000000
+      internalID: -1080648675633613672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_18
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 370
+        width: 110
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cae644b19a9a860800000000000000
+      internalID: 7541744985585921182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_19
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 370
+        width: 80
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e45e169b20842890800000000000000
+      internalID: -7483715756092402464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 60
+        width: 80
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fa713efd246cac0800000000000000
+      internalID: -3835304503304278224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 130
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce5e29c0b85be130800000000000000
+      internalID: 3597066243698220749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_22
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 130
+        width: 110
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964efd5a8869b0630800000000000000
+      internalID: 3894371816434558057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medival Small Guys clone_23
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 140
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaa2343d49a2e820800000000000000
+      internalID: 2946103255307037410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
