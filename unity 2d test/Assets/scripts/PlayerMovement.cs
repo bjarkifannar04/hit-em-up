@@ -5,8 +5,8 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
 
-    public bool CanGoUp = true;
-    public bool CanGoDown = true;
+    public bool CanWalk = true;
+   
 
     public Rigidbody2D RB;
     public Animator PlayerAnimations;
@@ -27,31 +27,44 @@ public class PlayerMovement : MonoBehaviour
         float x = Input.GetAxis("Horizontal");
         float y = Input.GetAxis("Vertical");
 
-        RB.velocity = new Vector2(x * speed, y * speedUp);
+        
 
-        if (x >= 0.1)
+        if (CanWalk == true)
         {
-            PlayerAnimations.SetBool("IsWalking", true);
-            transform.localRotation = Quaternion.Euler(0, 0, 0);
-        } else if (x <= -0.1)
-        {
-            PlayerAnimations.SetBool("IsWalking", true);
-            transform.localRotation = Quaternion.Euler(0, 180, 0);
-        }
-        else if (y >= 0.1)
-        {
-            PlayerAnimations.SetBool("IsWalking", true);
-            
-        }
-        else if (y <= -0.1)
-        {
-            PlayerAnimations.SetBool("IsWalking", true);
-            
+            RB.velocity = new Vector2(x * speed, y * speedUp);
+
+            if (x >= 0.1)
+            {
+                PlayerAnimations.SetBool("IsWalking", true);
+                transform.localRotation = Quaternion.Euler(0, 0, 0);
+            }
+            else if (x <= -0.1)
+            {
+                PlayerAnimations.SetBool("IsWalking", true);
+                transform.localRotation = Quaternion.Euler(0, 180, 0);
+            }
+            else if (y >= 0.1)
+            {
+                PlayerAnimations.SetBool("IsWalking", true);
+                PlayerAnimations.SetBool("Sheild", false);
+            }
+            else if (y <= -0.1)
+            {
+                PlayerAnimations.SetBool("IsWalking", true);
+                PlayerAnimations.SetBool("Sheild", false);
+            }
+            else
+            {
+                PlayerAnimations.SetBool("IsWalking", false);
+
+            }
         }
         else
         {
+            RB.velocity = new Vector2(0,0);
             PlayerAnimations.SetBool("IsWalking", false);
         }
 
+       
     }
 }
