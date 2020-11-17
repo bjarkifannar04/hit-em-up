@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
 
     // Start is called before the first frame update
     void Start()
-    {
+    { 
         PlayerAnimations = gameObject.GetComponent<Animator>();
     }
 
@@ -46,12 +46,12 @@ public class PlayerMovement : MonoBehaviour
             else if (y >= 0.1)
             {
                 PlayerAnimations.SetBool("IsWalking", true);
-                PlayerAnimations.SetBool("Sheild", false);
+
             }
             else if (y <= -0.1)
             {
                 PlayerAnimations.SetBool("IsWalking", true);
-                PlayerAnimations.SetBool("Sheild", false);
+
             }
             else
             {

@@ -29,6 +29,33 @@ TextureImporter:
   - first:
       213: -8724736882673067028
     second: goldenKnight 1_8
+  - first:
+      213: 1790867706023460053
+    second: goldenKnight 1_0
+  - first:
+      213: 252933539206189537
+    second: goldenKnight 1_1
+  - first:
+      213: 4639440847644505063
+    second: goldenKnight 1_2
+  - first:
+      213: 8986501892628089606
+    second: goldenKnight 1_3
+  - first:
+      213: 4604487530832225537
+    second: goldenKnight 1_4
+  - first:
+      213: 4854023787734568996
+    second: goldenKnight 1_5
+  - first:
+      213: 488472796473409713
+    second: goldenKnight 1_6
+  - first:
+      213: -1969128949179561618
+    second: goldenKnight 1_7
+  - first:
+      213: -1837237827899829669
+    second: goldenKnight 1_8
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -155,19 +182,19 @@ TextureImporter:
       name: goldenKnight 1_0
       rect:
         serializedVersion: 2
-        x: 120
-        y: 720
-        width: 80
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 640
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4942369, y: 0.24066372}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 313bcb2286437a4e0800000000000000
-      internalID: -1970548690087267565
+      spriteID: 5dc3f31b0b07ad810800000000000000
+      internalID: 1790867706023460053
       vertices: []
       indices: 
       edges: []
@@ -176,19 +203,19 @@ TextureImporter:
       name: goldenKnight 1_1
       rect:
         serializedVersion: 2
-        x: 440
-        y: 720
-        width: 80
-        height: 180
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 320
+        y: 640
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.25218982}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1dc0e5293060db490800000000000000
-      internalID: -7729014773087597359
+      spriteID: 1e1da2cb6b9928300800000000000000
+      internalID: 252933539206189537
       vertices: []
       indices: 
       edges: []
@@ -197,19 +224,19 @@ TextureImporter:
       name: goldenKnight 1_2
       rect:
         serializedVersion: 2
-        x: 760
-        y: 720
-        width: 80
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 640
+        y: 640
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5115259, y: 0.23490086}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fe4511ffecf078d0800000000000000
-      internalID: -2850500456653435146
+      spriteID: 7e3b940ceda926040800000000000000
+      internalID: 4639440847644505063
       vertices: []
       indices: 
       edges: []
@@ -218,19 +245,19 @@ TextureImporter:
       name: goldenKnight 1_3
       rect:
         serializedVersion: 2
-        x: 120
-        y: 400
-        width: 80
-        height: 180
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 320
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5057846, y: 0.24548045}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc7ab61ba1f3507b0800000000000000
-      internalID: -5258727606006863923
+      spriteID: 60b097bdbd776bc70800000000000000
+      internalID: 8986501892628089606
       vertices: []
       indices: 
       edges: []
@@ -239,19 +266,19 @@ TextureImporter:
       name: goldenKnight 1_4
       rect:
         serializedVersion: 2
-        x: 440
-        y: 400
-        width: 80
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 320
+        y: 320
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5057629, y: 0.24066392}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de1bd1f088431ef40800000000000000
-      internalID: 5755939557730005485
+      spriteID: 10568ff730d66ef30800000000000000
+      internalID: 4604487530832225537
       vertices: []
       indices: 
       edges: []
@@ -260,19 +287,19 @@ TextureImporter:
       name: goldenKnight 1_5
       rect:
         serializedVersion: 2
-        x: 750
-        y: 400
-        width: 100
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 640
+        y: 320
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5057629, y: 0.24066392}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dec6a6c0e6deff8b0800000000000000
-      internalID: -5116109594759107347
+      spriteID: 420173fcae4fc5340800000000000000
+      internalID: 4854023787734568996
       vertices: []
       indices: 
       edges: []
@@ -281,19 +308,19 @@ TextureImporter:
       name: goldenKnight 1_6
       rect:
         serializedVersion: 2
-        x: 130
-        y: 80
-        width: 110
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5042177, y: 0.25115734}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d0bfc2f830598950800000000000000
-      internalID: 6451776146707034324
+      spriteID: 1b04d3c9b6767c600800000000000000
+      internalID: 488472796473409713
       vertices: []
       indices: 
       edges: []
@@ -302,19 +329,19 @@ TextureImporter:
       name: goldenKnight 1_7
       rect:
         serializedVersion: 2
-        x: 440
-        y: 80
-        width: 100
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 320
+        y: 0
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25115734}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: caf614e2f0f773af0800000000000000
-      internalID: -416724737331204180
+      spriteID: e69c63357af3ca4e0800000000000000
+      internalID: -1969128949179561618
       vertices: []
       indices: 
       edges: []
@@ -323,19 +350,19 @@ TextureImporter:
       name: goldenKnight 1_8
       rect:
         serializedVersion: 2
-        x: 760
-        y: 80
-        width: 110
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 640
+        y: 0
+        width: 320
+        height: 320
+      alignment: 9
+      pivot: {x: 0.50421774, y: 0.25537503}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cebd585e7028be680800000000000000
-      internalID: -8724736882673067028
+      spriteID: b52de1cfde1d086e0800000000000000
+      internalID: -1837237827899829669
       vertices: []
       indices: 
       edges: []

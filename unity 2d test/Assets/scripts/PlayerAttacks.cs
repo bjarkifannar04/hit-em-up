@@ -7,10 +7,11 @@ public class PlayerAttacks : MonoBehaviour
 
     public Animator PlayerAnimations;
 
-    public bool UsingSheild = false;
+    public bool UsingSheild;
+    public bool IsUsingSheild;
 
     public PlayerMovement PM;
-
+    
 
     // Start is called before the first frame update
     void Start()
@@ -34,5 +35,17 @@ public class PlayerAttacks : MonoBehaviour
             UsingSheild = false;
             PlayerAnimations.SetBool("Sheild", false);
         }
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            MeleeAttack();
+        }
+
+
+    }
+
+    void MeleeAttack()
+    {
+        PlayerAnimations.SetTrigger("Spear");
     }
 }
